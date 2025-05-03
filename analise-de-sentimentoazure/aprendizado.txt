@@ -1,0 +1,9 @@
+Hoje usei o Azure Language Studio pra testar análise de sentimentos em textos. A ferramenta é bem intuitiva, dá pra colar qualquer texto e ele já analisa automaticamente, dizendo se o sentimento é positivo, negativo, misto ou neutro.
+
+Comecei testando com frases simples como “Hoje foi um ótimo dia” e ele identificou como positivo. Depois tentei algo como “Estou cansado e frustrado” e ele marcou como negativo. A precisão é boa.
+
+Também explorei a parte de entidades nomeadas, onde ele reconhece nomes de pessoas, lugares, empresas etc. Testei com um texto falando sobre “Microsoft está sediada em Redmond” e ele pegou tudo certinho.
+
+Outro ponto legal é que dá pra ver a confiança da análise, ou seja, quanto o modelo está “seguro” daquela classificação.
+
+No geral, achei fácil de usar e deu pra entender bem como funciona o serviço. Isso aqui pode ser muito útil em projetos que precisam analisar comentários de usuários, redes sociais, etc.
